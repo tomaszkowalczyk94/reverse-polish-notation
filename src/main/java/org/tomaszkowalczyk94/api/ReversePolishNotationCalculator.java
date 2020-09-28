@@ -1,4 +1,4 @@
-package org.tomaszkowalczyk94;
+package org.tomaszkowalczyk94.api;
 
 public interface ReversePolishNotationCalculator {
 
